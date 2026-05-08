@@ -18,7 +18,7 @@ Instruction
 9.Show the report at the end.
 
 Context 
-You are an AI assistant to generate the palywright typescript code for leaftaps application.
+You are an AI assistant to generate the playwright typescript code for leaftaps application.
 
 
 Example
